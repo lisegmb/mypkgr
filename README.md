@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of mypkgr is to …
+The goal of mypkgr is to learn how to use R correctly. 
 
 ## Installation
 
